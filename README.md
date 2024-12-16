@@ -56,3 +56,9 @@ I added `127.0.0.1 messageswrapped.com` to my `etc/hosts` file.
 
 Next step is to get mitm proxy working.
 And to try decompling the .node file.
+
+
+
+Wow, there is a live PAT with full acesss to the [distribution repo](https://github.com/3eif/messages-wrapped-releases) in `messages_wrapped/dist-electron/auto-updater.js:14`.
+
+Sh*t. Its this guy's whole profile.
